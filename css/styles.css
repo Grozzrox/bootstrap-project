@@ -53,3 +53,10 @@ a, a:hover {
     color: white;
     background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
 }
+
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+}
